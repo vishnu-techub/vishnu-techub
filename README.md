@@ -39,17 +39,12 @@ I enjoy the whole process — understanding the problem, shaping the experience,
 
 ## 02 — QUICK FACTS
 
-<img src="https://img.shields.io/badge/FOCUS-Full--stack_%2B_AI-101827?style=flat-square&labelColor=101827&color=70F0E4" alt="Focus"/>
+| **FOCUS** | Full-stack + AI |
+|:--|:--|
+| **BASE** | Tamil Nadu, India |
+| **MINDSET** | Learn → Build → Improve |
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/BASE-Tamil_Nadu%2C_India-101827?style=flat-square&labelColor=101827&color=A78BFA" alt="Location"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/MINDSET-Learn_%E2%86%92_Build_%E2%86%92_Improve-101827?style=flat-square&labelColor=101827&color=D7FF8A" alt="Mindset"/>
-
-<br/><br/>
+<br/>
 
 <a href="https://github.com/vishnu-techub"><img src="https://komarev.com/ghpvc/?username=vishnu-techub&style=flat-square&color=70F0E4&label=PROFILE+VIEWS" alt="Profile views"/></a>
 
@@ -64,6 +59,12 @@ I enjoy the whole process — understanding the problem, shaping the experience,
 ## 03 — SELECTED WORK
 
 *Selected builds across campus technology, AI, security, and learning.*
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-CAMPUS_TECH-101827?style=flat-square&labelColor=101827&color=70F0E4" alt="Campus tech"/> &nbsp; <img src="https://img.shields.io/badge/02-ARTIFICIAL_INTELLIGENCE-101827?style=flat-square&labelColor=101827&color=A78BFA" alt="Artificial intelligence"/> &nbsp; <img src="https://img.shields.io/badge/03-LEARNING_TOOLS-101827?style=flat-square&labelColor=101827&color=D7FF8A" alt="Learning tools"/>
+
+</div>
 
 </div>
 
@@ -139,6 +140,8 @@ A platform for mentoring, counselling records, and student-development workflows
 <div align="center">
 
 ## 04 — THE TOOLKIT
+
+*Tools I use to turn ideas into working products.*
 
 **FRONTEND**
 
