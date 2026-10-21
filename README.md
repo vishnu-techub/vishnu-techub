@@ -1,4 +1,4 @@
-<!-- VISHNUVARTHAN P / PROFILE README — custom visual system -->
+<!-- VISHNUVARTHAN P / PROFILE README — refined developer studio -->
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 <a href="https://github.com/vishnu-techub?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-A78BFA?style=for-the-badge&labelColor=0B101A" alt="Projects"/></a>
 <a href="https://www.linkedin.com/in/vishnuvarthan-p-25a142328/"><img src="https://img.shields.io/badge/CONNECT-LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=70F0E4" alt="LinkedIn"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=1000&color=70F0E4&center=true&vCenter=true&width=650&height=35&lines=I+build+things+that+solve+real+problems.;Full-stack+development+%2B+AI+experiments.;Learn+deeply.+Build+thoughtfully.+Ship+often." alt="Animated developer tagline"/>
+<p><strong>FULL-STACK ENGINEERING</strong> &nbsp; · &nbsp; <strong>AI EXPERIMENTS</strong> &nbsp; · &nbsp; <strong>THOUGHTFUL UI</strong></p>
 
 </div>
 
@@ -63,7 +63,7 @@ I enjoy the whole process — understanding the problem, shaping the experience,
 
 ## 03 — SELECTED WORK
 
-*Not just repositories — small steps toward solving real problems.*
+*Selected builds across campus technology, AI, security, and learning.*
 
 </div>
 
