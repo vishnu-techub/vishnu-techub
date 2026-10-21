@@ -7,6 +7,7 @@
 <a href="https://github.com/vishnu-techub"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=700&height=42&lines=I+turn+ideas+into+useful+software.;Full-stack+development+%2B+AI+experiments.;Learn+deeply.+Build+thoughtfully.+Ship+often." alt="Animated developer introduction"/></a>
 
 <p>
+<a href="https://vishnu-techub.github.io/vishnu-techub/"><img src="https://img.shields.io/badge/PORTFOLIO-Open%20the%20experience-101827?style=for-the-badge&logo=vercel&logoColor=67E5F2" alt="Portfolio website"/></a>
 <a href="https://github.com/vishnu-techub"><img src="https://img.shields.io/badge/GITHUB-Explore%20my%20code-101827?style=for-the-badge&logo=github&logoColor=67E8F9" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/vishnuvarthan-p-25a142328/"><img src="https://img.shields.io/badge/LINKEDIN-Let's%20connect-101827?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn"/></a>
 <a href="mailto:vishnuvarthan1377@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say%20hello-101827?style=for-the-badge&logo=gmail&logoColor=67E8F9" alt="Email"/></a>
