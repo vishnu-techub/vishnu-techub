@@ -18,7 +18,7 @@
 
 ---
 
-## 🧑‍💻 `whoami`
+## 🧑‍💻 `Who Am I`
 
 ```javascript
 const vishnu = {
