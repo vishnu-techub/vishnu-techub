@@ -11,6 +11,7 @@
 <a href="https://vishnu-techub.github.io/vishnu-techub/"><img src="https://img.shields.io/badge/OPEN_PORTFOLIO-70F0E4?style=for-the-badge&labelColor=0B101A" alt="Portfolio"/></a>
 <a href="https://github.com/vishnu-techub?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-A78BFA?style=for-the-badge&labelColor=0B101A" alt="Projects"/></a>
 <a href="https://www.linkedin.com/in/vishnuvarthan-p-25a142328/"><img src="https://img.shields.io/badge/CONNECT-LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=70F0E4" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/__vishnu_010/"><img src="https://img.shields.io/badge/FOLLOW-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 <p><sub>BUILDING WITH PURPOSE · LEARNING IN PUBLIC · IMPROVING EVERY ITERATION</sub></p>
 
