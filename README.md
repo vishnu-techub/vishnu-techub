@@ -4,13 +4,15 @@
 
 <img src="./assets/profile-banner.svg" width="100%" alt="Vishnuvarthan P — Developer portfolio"/>
 
+<p><strong>FULL-STACK DEVELOPER</strong> &nbsp; · &nbsp; <strong>AI BUILDER</strong> &nbsp; · &nbsp; <strong>PRODUCT THINKER</strong></p>
+
 <br/>
 
 <a href="https://vishnu-techub.github.io/vishnu-techub/"><img src="https://img.shields.io/badge/OPEN_PORTFOLIO-70F0E4?style=for-the-badge&labelColor=0B101A" alt="Portfolio"/></a>
 <a href="https://github.com/vishnu-techub?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-A78BFA?style=for-the-badge&labelColor=0B101A" alt="Projects"/></a>
 <a href="https://www.linkedin.com/in/vishnuvarthan-p-25a142328/"><img src="https://img.shields.io/badge/CONNECT-LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=70F0E4" alt="LinkedIn"/></a>
 
-<p><strong>FULL-STACK ENGINEERING</strong> &nbsp; · &nbsp; <strong>AI EXPERIMENTS</strong> &nbsp; · &nbsp; <strong>THOUGHTFUL UI</strong></p>
+<p><sub>BUILDING WITH PURPOSE · LEARNING IN PUBLIC · IMPROVING EVERY ITERATION</sub></p>
 
 </div>
 
@@ -20,13 +22,13 @@
 <tr>
 <td width="60%" valign="top">
 
-## 01 — THE BUILDER
+## 01 / ABOUT THE BUILDER
 
-### Hey, I'm Vishnu. 👋
+### Hey, I’m Vishnu. 👋
 
-I'm a **B.Tech Information Technology student** interested in building practical products across full-stack development, AI-powered tools, and thoughtful user experiences.
+I’m a **B.Tech Information Technology student** focused on building practical digital products with full-stack engineering and AI.
 
-I enjoy the whole process — understanding the problem, shaping the experience, building the system, and improving it with every iteration.
+I enjoy taking ideas from rough concepts to working software — with thoughtful interfaces, useful features, and room to improve.
 
 **WHAT I'M INTO**
 
@@ -37,12 +39,12 @@ I enjoy the whole process — understanding the problem, shaping the experience,
 </td>
 <td width="40%" valign="top">
 
-## 02 — QUICK FACTS
+## 02 / AT A GLANCE
 
 | **FOCUS** | Full-stack + AI |
 |:--|:--|
 | **BASE** | Tamil Nadu, India |
-| **MINDSET** | Learn → Build → Improve |
+| **APPROACH** | Design → Build → Iterate |
 
 <br/>
 
@@ -56,9 +58,9 @@ I enjoy the whole process — understanding the problem, shaping the experience,
 
 <div align="center">
 
-## 03 — SELECTED WORK
+## 03 / FEATURED PROJECTS
 
-*Selected builds across campus technology, AI, security, and learning.*
+*A selection of projects exploring campus tools, AI, cybersecurity, and interactive learning.*
 
 <div align="center">
 
@@ -139,9 +141,9 @@ A platform for mentoring, counselling records, and student-development workflows
 
 <div align="center">
 
-## 04 — THE TOOLKIT
+## 04 / TECH STACK
 
-*Tools I use to turn ideas into working products.*
+*A growing toolkit for building, testing, and shipping software.*
 
 **FRONTEND**
 
@@ -157,7 +159,7 @@ A platform for mentoring, counselling records, and student-development workflows
 
 <div align="center">
 
-## 05 — GITHUB SIGNAL
+## 05 / OPEN-SOURCE ACTIVITY
 
 <a href="https://github.com/vishnu-techub"><img height="165" src="https://github-readme-stats.vercel.app/api?username=vishnu-techub&show_icons=true&hide_border=true&rank_icon=github&bg_color=080B13&title_color=70F0E4&text_color=C5D2E8&icon_color=A78BFA" alt="GitHub statistics"/></a>
 <a href="https://github.com/vishnu-techub"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-techub&layout=compact&hide_border=true&bg_color=080B13&title_color=70F0E4&text_color=C5D2E8" alt="Most used languages"/></a>
@@ -174,9 +176,9 @@ A platform for mentoring, counselling records, and student-development workflows
 <tr>
 <td width="68%" valign="middle">
 
-## 06 — LET'S MAKE SOMETHING
+## 06 / LET'S CONNECT
 
-Have an interesting idea or want to collaborate? Let's connect and build something useful.
+Have an interesting idea, a useful problem to solve, or want to collaborate? Let’s connect.
 
 **Learn deeply. Build thoughtfully. Ship often.**
 
