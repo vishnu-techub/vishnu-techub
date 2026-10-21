@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Vishnuvarthan P — Developer portfolio"/>
+<img src="https://raw.githubusercontent.com/vishnu-techub/vishnu-techub/main/assets/profile-banner.svg" width="100%" alt="Vishnuvarthan P — Developer portfolio"/>
 
 <p><strong>FULL-STACK DEVELOPER</strong> &nbsp; · &nbsp; <strong>AI BUILDER</strong> &nbsp; · &nbsp; <strong>PRODUCT THINKER</strong></p>
 
@@ -74,7 +74,7 @@ I enjoy taking ideas from rough concepts to working software — with thoughtful
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/vishnu-techub/Edusmart"><img src="./assets/project-edusmart.svg" width="100%" alt="EduSmart project card"/></a>
+<a href="https://github.com/vishnu-techub/Edusmart"><img src="https://raw.githubusercontent.com/vishnu-techub/vishnu-techub/main/assets/project-edusmart.svg" width="100%" alt="EduSmart project card"/></a>
 
 ### EduSmart
 
@@ -87,7 +87,7 @@ Digital campus workflows and student-facing tools.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/vishnu-techub/PhishGuard-AI"><img src="./assets/project-phishguard.svg" width="100%" alt="PhishGuard AI project card"/></a>
+<a href="https://github.com/vishnu-techub/PhishGuard-AI"><img src="https://raw.githubusercontent.com/vishnu-techub/vishnu-techub/main/assets/project-phishguard.svg" width="100%" alt="PhishGuard AI project card"/></a>
 
 ### PhishGuard AI
 
@@ -102,7 +102,7 @@ An AI-oriented cybersecurity project exploring safer digital experiences.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/vishnu-techub/v-learn"><img src="./assets/project-vlearn.svg" width="100%" alt="V-Learn project card"/></a>
+<a href="https://github.com/vishnu-techub/v-learn"><img src="https://raw.githubusercontent.com/vishnu-techub/vishnu-techub/main/assets/project-vlearn.svg" width="100%" alt="V-Learn project card"/></a>
 
 ### V-Learn
 
@@ -115,7 +115,7 @@ An interactive learning concept for exploring quantum-computing concepts.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/vishnu-techub/DIGITAL-MENTOR-MENTEE"><img src="./assets/project-mentor.svg" width="100%" alt="Digital Mentor project card"/></a>
+<a href="https://github.com/vishnu-techub/DIGITAL-MENTOR-MENTEE"><img src="https://raw.githubusercontent.com/vishnu-techub/vishnu-techub/main/assets/project-mentor.svg" width="100%" alt="Digital Mentor project card"/></a>
 
 ### Digital Mentor–Mentee
 
