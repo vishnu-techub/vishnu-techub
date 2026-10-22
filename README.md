@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vishnu-techub/vishnu-techub/main/assets/profile-banner-unique.svg" width="100%" alt="Vishnuvarthan P — Developer portfolio"/>
+<img src="https://raw.githubusercontent.com/vishnu-techub/vishnu-techub/main/profile-banner.png" width="100%" alt="Vishnuvarthan's 3D Developer Banner"/>
 
 <p><strong>FULL-STACK DEVELOPER</strong> &nbsp; · &nbsp; <strong>AI BUILDER</strong> &nbsp; · &nbsp; <strong>PRODUCT THINKER</strong></p>
 
