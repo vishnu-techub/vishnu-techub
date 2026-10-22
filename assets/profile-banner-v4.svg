@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="650" viewBox="0 0 1800 650">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050914"/><stop offset=".58" stop-color="#0c1830"/><stop offset="1" stop-color="#170d2b"/></linearGradient>
+ <linearGradient id="title"><stop stop-color="#f7fbff"/><stop offset=".52" stop-color="#67c9ff"/><stop offset="1" stop-color="#c78bff"/></linearGradient>
+ <linearGradient id="sun" x2="0" y2="1"><stop stop-color="#ffd58e"/><stop offset=".55" stop-color="#ff7ca8"/><stop offset="1" stop-color="#9d66ff"/></linearGradient>
+ <linearGradient id="screen" x2="1" y2="1"><stop stop-color="#122b4b"/><stop offset="1" stop-color="#080f20"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1800" height="650" rx="24" fill="url(#bg)"/>
+<circle cx="1370" cy="150" r="190" fill="#7b4dff" opacity=".14" filter="url(#glow)"/>
+<circle cx="1420" cy="145" r="62" fill="url(#sun)" opacity=".9"/>
+<!-- distant skyline -->
+<path d="M760 290 900 165 1000 235 1120 100 1240 235 1350 165 1465 260 1580 175 1800 285V475H760Z" fill="#162d53"/>
+<path d="M760 340 920 260 1030 320 1160 210 1280 330 1410 250 1530 340 1660 270 1800 335V480H760Z" fill="#0c1a35"/>
+<g stroke="#27466f" opacity=".45"><path d="M760 365H1800M760 405H1800M760 445H1800M900 290V475M1000 280V475M1100 270V475M1200 260V475M1300 270V475M1400 270V475M1500 280V475M1600 280V475M1700 280V475"/></g>
+<g fill="#ffc47a" opacity=".85"><circle cx="980" cy="385" r="2"/><circle cx="1085" cy="420" r="2"/><circle cx="1180" cy="390" r="2"/><circle cx="1270" cy="430" r="2"/><circle cx="1370" cy="390" r="2"/><circle cx="1470" cy="425" r="2"/><circle cx="1580" cy="385" r="2"/><circle cx="1690" cy="415" r="2"/></g>
+<!-- header + readable identity -->
+<rect x="54" y="46" width="6" height="34" rx="3" fill="#00e8c4"/>
+<text x="78" y="69" fill="#b8c9e6" font-family="monospace" font-size="16" letter-spacing="4">VISHNUVARTHAN P  /  DEVELOPER PORTFOLIO</text>
+<text x="54" y="145" fill="#82d8ff" font-family="Arial,sans-serif" font-size="28" font-style="italic">Hello, I'm</text>
+<text x="50" y="218" fill="url(#title)" font-family="Arial,sans-serif" font-size="65" font-weight="800">VISHNUVARTHAN P</text>
+<text x="55" y="264" fill="#e1eaff" font-family="Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="1">FULL-STACK DEVELOPER  ·  AI EXPLORER</text>
+<text x="55" y="295" fill="#b9c9e3" font-family="Arial,sans-serif" font-size="20">Building practical products with code, creativity,</text>
+<text x="55" y="323" fill="#b9c9e3" font-family="Arial,sans-serif" font-size="20">and a mindset of continuous improvement.</text>
+<!-- buttons -->
+<g transform="translate(55 350)" font-family="Arial,sans-serif" font-size="16">
+ <rect width="135" height="42" rx="13" fill="#0b1930" stroke="#4ba7ff" stroke-width="1.5"/><text x="67" y="26" text-anchor="middle" fill="#f4f8ff">◉  GitHub</text>
+ <rect x="148" width="156" height="42" rx="13" fill="#17112d" stroke="#c76cff" stroke-width="1.5"/><text x="226" y="26" text-anchor="middle" fill="#f4f0ff">◎  Instagram</text>
+ <rect x="317" width="148" height="42" rx="13" fill="#0b1930" stroke="#338dff" stroke-width="1.5"/><text x="391" y="26" text-anchor="middle" fill="#f4f8ff">in  LinkedIn</text>
+</g>
+<!-- clean monitor workspace on right; no overlapping text -->
+<g transform="translate(1000 220)">
+ <rect x="0" y="0" width="580" height="235" rx="18" fill="#050c19" stroke="#42659c" stroke-width="2"/>
+ <path d="M0 18Q0 0 18 0H562Q580 0 580 18V38H0Z" fill="#182947"/>
+ <circle cx="22" cy="19" r="5" fill="#ff729d"/><circle cx="40" cy="19" r="5" fill="#ffc56c"/><circle cx="58" cy="19" r="5" fill="#00e8c4"/>
+ <rect x="18" y="55" width="250" height="160" rx="7" fill="url(#screen)"/>
+ <g font-family="monospace" font-size="14"><text x="34" y="82" fill="#8aa7d6">// build something useful</text><text x="34" y="112" fill="#00e8c4">const idea = create(</text><text x="50" y="138" fill="#d7a7ff">'with purpose'</text><text x="34" y="164" fill="#00e8c4">);</text><text x="34" y="194" fill="#91a8ce">ship(); learn(); repeat();</text></g>
+ <rect x="286" y="55" width="276" height="160" rx="7" fill="#0c1830" stroke="#1d355c"/>
+ <text x="307" y="84" fill="#e6edff" font-family="Arial,sans-serif" font-size="18" font-weight="700">BUILD. LEARN. IMPROVE.</text>
+ <g font-family="Arial,sans-serif" font-size="15"><circle cx="311" cy="112" r="5" fill="#00e8c4"/><text x="326" y="117" fill="#b9c9e3">Full-stack applications</text><circle cx="311" cy="145" r="5" fill="#c77bff"/><text x="326" y="150" fill="#b9c9e3">AI-powered experiences</text><circle cx="311" cy="178" r="5" fill="#4ba7ff"/><text x="326" y="183" fill="#b9c9e3">Tools with real-world impact</text></g>
+ <path d="M225 236H355L390 263H190Z" fill="#1b3152" stroke="#355483" stroke-width="2"/>
+ <rect x="165" y="263" width="250" height="12" rx="6" fill="#0a1325" stroke="#2c4772"/>
+</g>
+<!-- desk / chair silhouette restrained -->
+<path d="M920 460H1640L1700 480H880Z" fill="#111e35" stroke="#253d63" stroke-width="2"/>
+<path d="M1080 480V508M1580 480V508" stroke="#263f66" stroke-width="12"/>
+<rect x="885" y="437" width="90" height="43" rx="8" fill="#081020" stroke="#263e64"/>
+<path d="M900 447H958M900 456H946M900 465H952" stroke="#4c6998" stroke-width="2"/>
+<text x="1690" y="205" text-anchor="end" fill="#f6dfff" font-family="Arial,sans-serif" font-size="21" font-style="italic">Better Code.</text>
+<text x="1690" y="234" text-anchor="end" fill="#f6dfff" font-family="Arial,sans-serif" font-size="21" font-style="italic">Brighter Tomorrow.</text>
+<path d="M1555 247H1695" stroke="#d46bff" stroke-width="3"/>
+<!-- feature strip -->
+<g transform="translate(48 520)">
+ <rect width="1704" height="86" rx="17" fill="#061225" fill-opacity=".97" stroke="#2d4b7b" stroke-width="1.5"/>
+ <g transform="translate(28 19)" font-family="Arial,sans-serif"><rect width="48" height="48" rx="13" fill="#071b2e" stroke="#00dfff"/><text x="24" y="31" text-anchor="middle" fill="#00dfff" font-size="23">&lt;/&gt;</text><text x="64" y="20" fill="#4bdfff" font-size="17" font-weight="700">WEB DEVELOPMENT</text><text x="64" y="42" fill="#b6c7e2" font-size="15">Modern &amp; scalable</text></g>
+ <path d="M430 15V71" stroke="#253e67"/>
+ <g transform="translate(460 19)" font-family="Arial,sans-serif"><rect width="48" height="48" rx="13" fill="#180f2d" stroke="#c879ff"/><text x="24" y="31" text-anchor="middle" fill="#d8a4ff" font-size="23">✧</text><text x="64" y="20" fill="#d39aff" font-size="17" font-weight="700">ARTIFICIAL INTELLIGENCE</text><text x="64" y="42" fill="#b6c7e2" font-size="15">Explore &amp; build</text></g>
+ <path d="M850 15V71" stroke="#253e67"/>
+ <g transform="translate(880 19)" font-family="Arial,sans-serif"><rect width="48" height="48" rx="13" fill="#072329" stroke="#00e8c4"/><text x="24" y="31" text-anchor="middle" fill="#00e8c4" font-size="23">⌂</text><text x="64" y="20" fill="#00e8c4" font-size="17" font-weight="700">CAMPUS SOLUTIONS</text><text x="64" y="42" fill="#b6c7e2" font-size="15">Real-world impact</text></g>
+ <path d="M1260 15V71" stroke="#253e67"/>
+ <g transform="translate(1290 19)" font-family="Arial,sans-serif"><rect width="48" height="48" rx="13" fill="#24190b" stroke="#ffbd58"/><text x="24" y="31" text-anchor="middle" fill="#ffbd58" font-size="23">✦</text><text x="64" y="20" fill="#ffcc79" font-size="17" font-weight="700">LEARNING &amp; RESEARCH</text><text x="64" y="42" fill="#b6c7e2" font-size="15">Grow every day</text></g>
+</g>
+<text x="900" y="632" text-anchor="middle" fill="#8fa5c9" font-family="monospace" font-size="13" letter-spacing="3">BUILD WITH PURPOSE  ·  LEARN IN PUBLIC  ·  IMPROVE EVERY ITERATION</text>
+</svg>
